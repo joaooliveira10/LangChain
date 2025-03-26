@@ -42,8 +42,8 @@ LangChain é um framework que facilita o desenvolvimento de aplicações utiliza
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seuusuario/langchain-project.git
-cd langchain-project
+git clone https://github.com/joaooliveira10/LangChain.git
+cd LangChain
 ```
 
 2. Crie e ative um ambiente virtual (recomendado):
